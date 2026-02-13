@@ -28,3 +28,13 @@
 - [x] Update logo to user's provided image
 - [x] Update theme colors to gold and black
 - [x] Update all UI elements to match new color scheme
+
+## PR Tracking Features
+
+- [x] Create PR data models and storage
+- [x] Add major lifts list (Bench Press, Squat, Deadlift, Overhead Press, Barbell Row, etc.)
+- [x] Build PR entry form with weight and date
+- [x] Create PR history view for each lift
+- [x] Add PR display to dedicated PRs tab
+- [x] Add PR achievements/milestones
+- [x] Test PR tracking functionality
