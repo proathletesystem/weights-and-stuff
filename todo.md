@@ -21,3 +21,10 @@
 - [x] Frequency selector (daily/custom days)
 - [x] App icon and branding
 - [x] Dark mode support
+
+## Branding Updates
+
+- [x] Rename app to "Weights and Stuff"
+- [x] Update logo to user's provided image
+- [x] Update theme colors to gold and black
+- [x] Update all UI elements to match new color scheme
