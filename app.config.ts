@@ -32,7 +32,7 @@ const env = {
   appSlug: "habit-tracker",
   // S3 URL of the app logo - set this to the URL returned by generate_image when creating custom logo
   // Leave empty to use the default icon from assets/images/icon.png
-  logoUrl: "",
+  logoUrl: "https://private-us-east-1.manuscdn.com/sessionFile/4V7R6kwLmx13HcDvQ83KQY/sandbox/0G7Oc3Br81HkbGKP5ZmVMy-img-1_1771001488000_na1fn_aGFiaXQtdHJhY2tlci1pY29u.png",
   scheme: schemeFromBundleId,
   iosBundleId: bundleId,
   androidPackage: bundleId,
