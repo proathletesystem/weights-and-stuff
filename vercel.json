@@ -1,7 +1,0 @@
-{
-  "buildCommand": "pnpm install && pnpm build && npx expo export --platform web",
-  "outputDirectory": "dist",
-  "env": {
-    "NODE_ENV": "production"
-  }
-}
