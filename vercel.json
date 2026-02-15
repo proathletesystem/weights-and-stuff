@@ -1,13 +1,8 @@
 {
-  "buildCommand": "pnpm build && pnpm run build:web",
-  "outputDirectory": ".expo/web",
+  "buildCommand": "pnpm install && pnpm build && npx expo export --platform web",
+  "outputDirectory": "dist",
   "framework": "expo",
   "env": {
     "NODE_ENV": "production"
-  },
-  "functions": {
-    "api/**/*.ts": {
-      "runtime": "nodejs18.x"
-    }
   }
 }
